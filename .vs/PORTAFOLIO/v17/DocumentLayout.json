@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\krys\\source\\repos\\portafolio1\\portafolio\\portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\krys\\source\\repos\\portafolio1\\portafolio\\portafolio\\views\\home\\_h.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\_h.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\krys\\source\\repos\\portafolio1\\portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\krys\\source\\repos\\portafolio1\\portafolio\\portafolio\\views\\home\\_listadoproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\_listadoproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|c:\\users\\krys\\source\\repos\\portafolio1\\portafolio\\portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60B119AF-44D3-4A27-80F6-93B9931FF87D}|PORTAFOLIO\\PORTAFOLIO.csproj|solutionrelative:portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_H.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_H.cshtml",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\_H.cshtml",
+              "ToolTip": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_H.cshtml",
+              "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\_H.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T02:11:18.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Presentacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\_Presentacion.cshtml",
+              "ToolTip": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_Presentacion.cshtml",
+              "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\_Presentacion.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:56:32.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ListadoProyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_ListadoProyectos.cshtml",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\_ListadoProyectos.cshtml",
+              "ToolTip": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_ListadoProyectos.cshtml",
+              "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\_ListadoProyectos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:56:32.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_SeccionProyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_SeccionProyectos.cshtml",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\_SeccionProyectos.cshtml",
+              "ToolTip": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\_SeccionProyectos.cshtml",
+              "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\_SeccionProyectos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:56:31.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PORTAFOLIO\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Krys\\source\\repos\\PORTAFOLIO1\\PORTAFOLIO\\PORTAFOLIO\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PORTAFOLIO\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:56:15.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
